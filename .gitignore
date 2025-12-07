@@ -1,0 +1,21 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+
+# Build artifacts
+build/
+**/build/
+
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+
+# IDEs
+.vscode/
+.idea/
+*.iml
